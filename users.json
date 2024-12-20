@@ -7,9 +7,15 @@
       "expires": "2024-12-31"
     },
     {
-      "username": "user1",
-      "password": "password123",
-      "allowed_ips": ["203.0.113.5", "198.51.100.8"],
+      "username": "fadly",
+      "password": "vinzz1",
+      "allowed_ips": ["103.151.34.51", "198.51.100.8"],
+      "expires": "2024-12-31"
+    },
+    {
+      "username": "daun",
+      "password": "vinzz2",
+      "allowed_ips": ["125.166.3.71", "198.51.100.8"],
       "expires": "2024-12-31"
     }
   ]
