@@ -1,34 +1,16 @@
 {
-    "users": [
-        {
-            "username": "admin",
-            "password": "vinzz24",
-            "expires": "2024-12-27",
-            "allowed_ip": ["114.124.146.167"]
-        },
-        {
-            "username": "vinzz1",
-            "password": "vinzz1",
-            "expires": "2024-12-27",
-            "allowed_ip": ["192.168.1.10"]
-        },
-        {
-            "username": "vinzz2",
-            "password": "vinzz2",
-            "expires": "2024-12-27",
-            "allowed_ip": ["192.168.1.20"]
-        },
-        {
-            "username": "vinzz3",
-            "password": "vinzz3",
-            "expires": "2024-12-27",
-            "allowed_ip": ["192.168.1.30"]
-        },
-        {
-            "username": "vinzz4",
-            "password": "vinzz4",
-            "expires": "2024-12-27",
-            "allowed_ip": ["192.168.1.40"]
-        }
-    ]
+  "users": [
+    {
+      "username": "admin",
+      "password": "vinzz24",
+      "allowed_ips": ["114.124.142.151", "192.168.1.1"],
+      "expires": "2024-12-31"
+    },
+    {
+      "username": "user1",
+      "password": "password123",
+      "allowed_ips": ["203.0.113.5", "198.51.100.8"],
+      "expires": "2024-12-31"
+    }
+  ]
 }
