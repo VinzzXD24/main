@@ -4,7 +4,7 @@
             "username": "admin",
             "password": "vinzz24",
             "expires": "2024-12-27",
-            
+            "allowed_ip": "114.124.146.167"
         },
         {
             "username": "vinzz1",
