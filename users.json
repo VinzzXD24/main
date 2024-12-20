@@ -3,7 +3,7 @@
     {
       "username": "admin",
       "password": "Davinn24",
-      "allowed_ips": ["103.217.216.67","182.2.165.113"],
+      "allowed_ips": ["103.217.216.67","182.2.164.117"],
       "expires": "2025-12-1"
     },
     {
