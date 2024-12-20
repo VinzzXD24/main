@@ -2,7 +2,7 @@
   "users": [
     {
       "username": "admin",
-      "password": "davin",
+      "password": "Davinn24",
       "allowed_ips": ["114.124.142.151", "114.124.146.167","103.217.216.67"],
       "expires": "2025-12-1"
     },
