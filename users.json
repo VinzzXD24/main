@@ -1,20 +1,19 @@
 {
   "users": [
     {
+      "username": "davin",
+      "password": "admin",
+      "expires": "2024-12-31 23:59:59"
+    },
+    {
+      "username": "user2",
+      "password": "password2",
+      "expires": "2025-01-15 23:59:59"
+    },
+    {
       "username": "admin",
-      "password": "Davinn24"
-    },
-    {
-      "username": "fadly",
-      "password": "vinzz1",
-      "allowed_ips": ["103.151.34.51", "103.217.216.67"],
-      "expires": "2025-12-31"
-    },
-    {
-      "username": "daun",
-      "password": "vinzz2",
-      "allowed_ips": ["36.65.101.221","103.217.216.67"]
-      "expires": "2025-12-31"
+      "password": "davin24)",
+      "expires": "2099-12-31 23:59:59"
     }
   ]
 }
