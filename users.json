@@ -8,13 +8,13 @@
       "username": "fadly",
       "password": "vinzz1",
       "allowed_ips": ["103.151.34.51", "103.217.216.67"],
-      "expires": "2024-12-31"
+      "expires": "2025-12-31"
     },
     {
       "username": "daun",
       "password": "vinzz2",
       "allowed_ips": ["36.65.101.221","103.217.216.67"]
-      "expires": "2024-12-31"
+      "expires": "2025-12-31"
     }
   ]
 }
